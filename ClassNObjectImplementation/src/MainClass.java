@@ -13,9 +13,7 @@ public class MainClass
 		obj.num1 = 2;
 		obj.num2 = 10;
 		obj.perform(); // the value of variable "result" will be changed from 0 to the sum of num1 and num 2
-		
 		System.out.println(obj.result);
-		
 	}
 }
 
