@@ -17,7 +17,7 @@ class Outer // Class name: Outer.class
 	}
 	
 	
-	static class StaticInner
+	static class StaticInner  // Class name: Outer$StaticInner.class  
 	{
 		public void display()
 		{
